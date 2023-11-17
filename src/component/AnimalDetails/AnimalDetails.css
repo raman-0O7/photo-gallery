@@ -1,0 +1,36 @@
+.animal-details-wrapper {
+    display: flex;
+    margin-top: 3rem;
+    margin-inline: 2rem;
+    background-color: #0076CE;
+    gap: 2rem;
+    border-radius: 20px;
+    box-shadow: 1px 1px 4px #1F305E;
+}
+
+.animal-image {
+    width: 30vw;
+    margin: 2rem;
+    margin-left: 4rem;
+    border-radius: 10px;
+    box-shadow: 0 0 4px #1F305E;
+}
+
+.animal-details {
+    margin-top: 2rem;
+    margin-right: 2rem;
+}
+
+.details {
+    color: white;
+    font-family: "Poppins";
+    
+}
+.heading {
+    letter-spacing: 0.1rem;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+.desc {
+    letter-spacing: 0.2rem;
+}

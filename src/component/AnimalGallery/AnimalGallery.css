@@ -1,0 +1,17 @@
+.animal-gallery-wrapper {
+    width: fit-content;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.animal-gallery-heading {
+    font-family: 'Poppins', sans-serif;
+    font-variant: small-caps;
+    letter-spacing: 0.1rem;
+    font-size: xx-large;
+    text-shadow: 1px 1px grey;
+}
